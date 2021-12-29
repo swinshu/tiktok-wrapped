@@ -1,0 +1,20 @@
+Allow Others to Find Me: Default
+Private Account: Enabled
+Personalized Ads: Disabled
+Ads Based on Data Received from Partners: Off
+Who Can Post Comments: Default
+Who Can React to Me: Default
+Who Can Duet With Me: Default
+Who Can Send Me Message: Friends
+Who Can View Videos I Liked: Default
+Allow DownLoad: Default
+Filter Comments: Default
+Interests: 
+Video Languages Preferences: 
+
+Push Notification
+New Fans: Default
+New Likes on My Video: Default
+New Comments on My Video: Default
+Language: English
+
