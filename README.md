@@ -1,9 +1,9 @@
 # tiktok_wrapped
 tiktok, wrapped!
 
-- [ x ] clean initial data
-- [ x ] build web scraper
-- [ x ] scrape info from file
+- [x] clean initial data
+- [x] build web scraper
+- [x] scrape info from file
 - [ ] decide which features to include
     - Top accounts
     - Top songs
